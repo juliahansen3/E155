@@ -1,0 +1,14 @@
+---
+title: "Learning Objectives"
+description: "Welcome to my Quarto portfolio"
+author: "Julia Hansen"
+date: "8/28/24"
+categories:
+  - reflection
+  - labreport
+draft: false
+---
+I am excited to take MicroPs this Fall and learn more about FPGAs and embedded systems! My goals 
+for the semester are to grow in confidence in my technical and professional skills, especially when
+presenting my work and to plan ahead each lab and the final project in order to maximize learning
+and avoid stress. 
